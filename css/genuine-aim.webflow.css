@@ -9,6 +9,12 @@
   background-color: #fdfdfd;
 }
 
+.clickable-section {
+  cursor: pointer;
+  text-decoration: none;
+  color: inherit; 
+}
+
 .walsh-button-circle {
   width: 14em;
   height: 7em;
