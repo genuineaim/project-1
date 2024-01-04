@@ -173,7 +173,7 @@
   color: var(--tranparent);
 }
 
-.accordion-item {
+.development-questions {
   max-width: 1280px;
   border-top: 1px solid #fff;
   border-bottom: 1px #fff;
@@ -182,7 +182,7 @@
   margin-bottom: 20px;
 }
 
-.accordion-item:hover {
+.development-questions:hover {
   box-shadow: 4px 4px 25px rgba(0, 0, 0, .2);
 }
 
@@ -644,7 +644,7 @@
   display: inline;
 }
 
-.hero-header.faq {
+.hero-header.faq-title {
   font-size: 10em;
 }
 
@@ -1696,7 +1696,7 @@
   font-size: 14px;
 }
 
-.heading-6 {
+.faq-subtitle {
   color: #fff;
   font-family: Monumentextended, sans-serif;
   font-size: 20px;
@@ -2181,7 +2181,7 @@
   display: flex;
 }
 
-.list-item {
+.website-features-pricing {
   margin-bottom: 10px;
   font-family: Open Sans, sans-serif;
   font-weight: 700;
@@ -2199,11 +2199,11 @@
   font-family: Montserrat, sans-serif;
 }
 
-.list-item-3, .list-item-4, .list-item-5, .list-item-6, .list-item-7, .list-item-8 {
+.responsive-design-pricing, .contact-form-pricing, .list-item-5, .site-performance-pricing, .custom-features-pricing, .content-features-pricing {
   margin-bottom: 10px;
 }
 
-.list-item-9 {
+.ecomerce-contacts-pricing {
   margin-bottom: 10px;
   font-family: Montserrat, sans-serif;
 }
@@ -2376,7 +2376,7 @@
     margin-bottom: 30px;
   }
 
-  .heading-6 {
+  .faq-subtitle {
     color: var(--white);
     font-family: Monumentextended, sans-serif;
     font-size: 1.25rem;
@@ -2625,7 +2625,7 @@
     padding-left: 50px;
   }
 
-  .accordion-item {
+  .development-questions {
     margin-bottom: 20px;
   }
 
@@ -2801,7 +2801,7 @@
     top: 7%;
   }
 
-  .heading-6 {
+  .faq-subtitle {
     text-align: center;
   }
 
@@ -3115,7 +3115,7 @@
     padding-right: 25px;
   }
 
-  .accordion-item {
+  .development-questions {
     margin-bottom: 10px;
   }
 
@@ -3468,7 +3468,7 @@
     right: 0%;
   }
 
-  .heading-6 {
+  .faq-subtitle {
     text-align: center;
     font-size: 1.2rem;
   }
