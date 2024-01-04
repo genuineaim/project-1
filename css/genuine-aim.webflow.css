@@ -2181,7 +2181,7 @@
   display: flex;
 }
 
-.website-features-pricing {
+.website-features-website {
   margin-bottom: 10px;
   font-family: Open Sans, sans-serif;
   font-weight: 700;
@@ -2199,11 +2199,11 @@
   font-family: Montserrat, sans-serif;
 }
 
-.responsive-design-pricing, .contact-form-pricing, .list-item-5, .site-performance-pricing, .custom-features-pricing, .content-features-pricing {
+.responsive-design-website, .contact-form-website, .list-item-5, .site-performance-website, .custom-features-website, .content-features-website {
   margin-bottom: 10px;
 }
 
-.ecomerce-contacts-pricing {
+.ecomerce-contacts-website {
   margin-bottom: 10px;
   font-family: Montserrat, sans-serif;
 }
