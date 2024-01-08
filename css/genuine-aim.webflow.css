@@ -9,6 +9,27 @@
   background-color: #fdfdfd;
 }
 
+.nav-item-text {
+  color: transparent;
+  -webkit-text-fill-color: transparent;
+  -webkit-text-stroke-width: 0.8px;
+  -webkit-text-stroke-color: #A5A3A6;
+}
+.frosty {
+	backdrop-filter: blur(2em);
+  -webkit-backdrop-filter: blur(2em);
+}
+.outline {
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  -webkit-text-stroke: 0.01EM #fff;
+}
+.hero-header {
+  color: transparent;
+  -webkit-text-fill-color: transparent;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: #fff;
+}
 .clickable-section {
   cursor: pointer;
   text-decoration: none;
@@ -2110,7 +2131,9 @@
   overflow: hidden;
   transform: scale(1);
 }
-
+.stage-button:hover {
+  color:black !important
+}
 .stage-btn-text {
   z-index: 1;
   letter-spacing: 2px;
