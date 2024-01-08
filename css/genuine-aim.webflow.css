@@ -902,7 +902,7 @@
 }
 
 .special-text-wrapper-2 {
-  height: 100px;
+  height: 105px;
   align-self: auto;
   margin-bottom: 0;
   display: block;
@@ -999,7 +999,7 @@
   max-width: 1200px;
   flex-direction: column;
   align-items: flex-start;
-  margin-top: 100px;
+  margin-top: 10px;
   display: flex;
   position: relative;
   overflow: hidden;
@@ -2319,7 +2319,7 @@
   }
 
   .special-text-wrapper-2 {
-    height: 96px;
+    height: 105px;
   }
 
   .nav-item-text-full {
@@ -2516,7 +2516,7 @@
   }
 
   .special-text-wrapper-2 {
-    height: 136px;
+    height: 105px;
   }
 
   .nav__bg-2 {
